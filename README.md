@@ -25,6 +25,8 @@ This project aims to track football players, referees, and the ball using comput
 ## Future Improvements
 - **Ball Tracking Enhancements**: The ball tracking can sometimes fail, especially in fast-moving scenarios or between frames. Improving its reliability is a future goal.
   
+- **Players IDs**: One of the project's future goals is to assign fix ID numbers to the players, letting them for example correspond to the shirt numbers.
+
 - **Goalkeeper Identification**: Currently, goalkeepers are represented similarly to players. Plans include a more specific and distinctive display for goalkeepers.
   
 - **Alternative Classification Algorithms**: While KMeans clustering is used to separate the teams, other classification algorithms will be explored to better differentiate between players on the field.
